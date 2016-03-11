@@ -3,7 +3,7 @@
 
 # Sailor stuff 
 website/runtime
-errors.log
+ngx_errors.log
 
 # Compiled Lua sources
 luac.out

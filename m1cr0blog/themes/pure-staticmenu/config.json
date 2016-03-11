@@ -1,0 +1,22 @@
+{
+  "vars": {},
+  "css": [
+    "less/alerts.less",
+    "less/blocks.less",
+    "less/breadcrumbs.less",
+    "less/buttons.less",
+    "less/forms.less",
+    "less/grid.less",
+    "less/helpers.less",
+    "less/kube.less",
+    "less/labels.less",
+    "less/messages.less",
+    "less/mixins.less",
+    "less/pagination.less",
+    "less/reset.less",
+    "less/tables.less",
+    "less/typography.less",
+    "less/variables.less"
+  ],
+  "js": []
+}
