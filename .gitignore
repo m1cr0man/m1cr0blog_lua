@@ -1,3 +1,10 @@
+# Vagrant folder
+.vagrant
+
+# Sailor stuff 
+website/runtime
+errors.log
+
 # Compiled Lua sources
 luac.out
 
