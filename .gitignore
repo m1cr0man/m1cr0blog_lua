@@ -2,8 +2,10 @@
 .vagrant
 
 # Sailor stuff 
-website/runtime
+runtime
 ngx_errors.log
+ngx_access.log
+credentials.lua
 
 # Compiled Lua sources
 luac.out
